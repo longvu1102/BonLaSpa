@@ -1,0 +1,5 @@
+{
+    "css.completion.triggerPropertyValueCompletion": true,
+    "css.completion.completePropertyWithSemicolon": true,
+    "css.format.enable": true
+}
